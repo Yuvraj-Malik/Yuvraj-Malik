@@ -57,14 +57,6 @@
 
 ---
 
-## 🎯 Currently Learning
-
-- Advanced **Backend Development** with Django & Flask
-- **Next.js** + **TypeScript** projects
-- **Cloud Computing** and **DevOps** best practices
-
----
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=F75C7E&center=true&vCenter=true&width=800&lines=🌌+Exploring+the+multiverse,+one+🐛+at+a+⌛" />
