@@ -40,6 +40,7 @@
 ## 📈 GitHub Stats
 
 ![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvraj-Malik&show_icons=true&hide_title=true&count_private=true&theme=radical)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Yuvraj-Malik&theme=onedark&hide_border=false&card_width=500)](https://git.io/streak-stats)
 
 <p align="center">
   
