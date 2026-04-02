@@ -1,111 +1,65 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=500&color=F2C35C&center=true&vCenter=true&width=435&lines=Hi+👋;+I'm+Yuvraj+Malik" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding Gif" width="500"/>
+<h2>Hey, I'm Yuvraj Malik 👋</h2>
+
+<p>Full Stack Developer & AI Engineer · Computer Engineering @ Thapar Institute (2024–2028)</p>
+
+<p>
+  <a href="https://yuvrajm.dev"><img src="https://img.shields.io/badge/Portfolio-yuvrajm.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+don't+just+write+code;I+craft+solutions+that+matter+🔥" alt="Subtitle" />
+<p>
+  <a href="https://www.linkedin.com/in/yuvraj-malik-b00005303/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yuvraj.malik003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Yuvraj-Malik/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Yuvraj-Malik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
----
-
-### 🚀 Wanna Know About ME?
-
-- 🐍 PyWizard | 🎨 UI Virtuoso | ⚡ Circuit Whisperer | 🤖 Neural Ninja
-- ☕ Powered by endless coffee and occasional panic
-- 🧩 Solving problems… or at least making them look like puzzles
-- 🌐 Building stuff that mostly works on my machine🫠
-
----
-
-
-## 💎 Tech Vault
-
-<div align="center">
-
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,flutter,html,css,tailwind" />
-
-### Databases & AI/ML
-<img src="https://skillicons.dev/icons?i=mysql,tensorflow,pytorch" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=arduino,git,vscode,linux,anaconda" />
-
-</div>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
 
-## 📈 GitHub Stats
+### About Me
+
+- ✅ &nbsp; Built **Jarvis** — a fault-tolerant multi-LLM desktop voice assistant with real desktop automation
+- 🚀 &nbsp; Currently building production-grade **AI systems**, **full-stack platforms**, and **gesture-based interfaces**
+- 🧠 &nbsp; I enjoy turning research-heavy ideas into usable developer and user experiences
+- ♟️ &nbsp; District-level chess gold medalist — I think in systems on and off the board
+
+---
+
+### 🧰 Tech Stack
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Malik&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Malik&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,dart,cpp,react,nextjs,nodejs,fastapi,django,tailwind,threejs,flutter,tensorflow,opencv,firebase,postman,mongodb,supabase,docker,git,arduino,vscode&perline=11" />
 </div>
 
 ---
 
-## 🌐 Connect with Me
+### 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-malik-b00005303/)    
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**Spatial Console**](https://github.com/Yuvraj-Malik/spatial-console) | Browser-based 3D builder controlled entirely by hand gestures | `Three.js` `MediaPipe` `React Three Fiber` |
+| [**Jarvis**](https://github.com/Yuvraj-Malik/Jarvis) | Multi-LLM voice assistant with real desktop automation | `Python` `LLM APIs` `Edge-TTS` |
+| [**Stark Paper Analyzer**](https://github.com/Yuvraj-Malik/Stark-System) | Transforms research PDFs into structured intelligence outputs | `FastAPI` `Gemini 2.5` `React` |
 
 ---
 
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Yuvraj-Malik&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj-Malik&theme=github_dark" alt="GitHub Stats" />
 </div>
 
-## 💭 Dev Quotes
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-## 🎯 Current Vibes
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=F75C7E&center=true&vCenter=true&width=800&lines=🌌+Exploring+the+multiverse,+one+🐛+at+a+⌛" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=800&lines=⚡+Turning+chaos+into+something+that+kinda+works" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🛠️+Building+weird+stuff+because+why+not+😎" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=FF4500&center=true&vCenter=true&width=800&lines=🔥+Curiosity+>+Comfort+Zone" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Malik&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-
-<h3 align="center"> "Not here to follow. Here to lead."💙</h3>
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <i>"I build software that feels like science fiction."</i>
 </div>
