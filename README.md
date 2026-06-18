@@ -50,8 +50,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Yuvraj-Malik&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj-Malik&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj-Malik&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -62,13 +62,17 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Malik/snake/output/snake-cyber.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Malik/snake/output/snake-neon.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Yuvraj-Malik/snake/output/snake-cyber.svg" />
-  </picture>
-</p>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#0d1117">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Malik/snake/output/snake-cyber.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Malik/snake/output/snake-cyber.svg" />
+        <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Yuvraj-Malik/snake/output/snake-cyber.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
