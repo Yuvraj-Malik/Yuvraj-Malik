@@ -8,10 +8,11 @@
   <a href="https://yuvrajm.dev"><img src="https://img.shields.io/badge/Portfolio-yuvrajm.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/yuvraj-malik-b00005303/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yuvraj.malik003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Yuvraj-Malik/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/Yuvraj-Malik"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Yuvraj-Malik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -32,7 +33,9 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,dart,cpp,react,nextjs,nodejs,fastapi,django,tailwind,threejs,flutter,tensorflow,opencv,firebase,postman,mongodb,supabase,docker,git,arduino,vscode&perline=11" />
+  <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,dart,cpp,react,nextjs,nodejs,express,fastapi,django,tailwind,threejs,flutter,pytorch,tensorflow,opencv,firebase,redis,postman,mongodb,supabase,docker,git,github,linux,vercel,netlify,vite,arduino,vscode&perline=11" />
+  </div>
 </div>
 
 ---
@@ -43,7 +46,15 @@
 | :--- | :--- | :--- |
 | [**Spatial Console**](https://github.com/Yuvraj-Malik/spatial-console) | Browser-based 3D builder controlled entirely by hand gestures | `Three.js` `MediaPipe` `React Three Fiber` |
 | [**Jarvis**](https://github.com/Yuvraj-Malik/Jarvis) | Multi-LLM voice assistant with real desktop automation | `Python` `LLM APIs` `Edge-TTS` |
-| [**Stark Paper Analyzer**](https://github.com/Yuvraj-Malik/Stark-System) | Transforms research PDFs into structured intelligence outputs | `FastAPI` `Gemini 2.5` `React` |
+
+---
+
+### 🚧 Currently Working On
+
+| Project | Description | Tech / Research |
+| :--- | :--- | :--- |
+| [**Spatial Console**](https://github.com/Yuvraj-Malik/spatial-console) | Transforming it into a full-fledged browser-based architectural design platform with advanced modeling tools, real-time collaboration, and an immersive first-person walkthrough mode. | `React` `Three.js` `React Three Fiber` `TypeScript` `MediaPipe` |
+| **Pix2Pix GAN** | Training a Pix2Pix GAN for medical image-to-image translation, focusing on generating high-quality images while preserving anatomical details for AI-assisted diagnosis and research. | `PyTorch` `Pix2Pix` `GANs` `Computer Vision` |
 
 ---
 
