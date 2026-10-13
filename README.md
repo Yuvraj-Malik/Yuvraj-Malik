@@ -12,10 +12,9 @@
   <a href="https://www.linkedin.com/in/yuvraj-malik-b00005303/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yuvraj.malik003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Yuvraj-Malik/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/Yuvraj-Malik"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Yuvraj-Malik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://profileviews.blueorbitdevs.workers.dev/?username=Yuvraj-Malik&base=2107&color=0e75b6&style=flat&label=Profile%20Views" alt="Profile Views" />
 
 </div>
 
@@ -63,10 +62,6 @@
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvraj-Malik&theme=github_dark" alt="GitHub Stats" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvraj-Malik&theme=github_dark" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Malik&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
